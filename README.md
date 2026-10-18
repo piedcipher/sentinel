@@ -1,4 +1,4 @@
-# sentinel
+# Sentinel
 
 A new Flutter project.
 
